@@ -1,0 +1,5 @@
+Varga Tom, 450000, 2, JUNIOR
+Kiss Bence, 520000, 5, JUNIOR
+Balogh Attila, 750000, 6, SENIOR
+Nagy Gyula, 1200000, 15, MANAGER
+Kiss David, 800000, 10, SENIOR
